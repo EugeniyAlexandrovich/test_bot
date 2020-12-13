@@ -1,7 +1,7 @@
 import telebot
 from telegram_bot_pagination import InlineKeyboardPaginator
 
-bot = telebot.TeleBot("1446894399:AAGWnlvQyQQvHMeioKMLvPtvFdr01zpKmss")
+bot = telebot.TeleBot("***")
 
 
 @bot.message_handler(commands=["start"])
